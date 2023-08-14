@@ -4,7 +4,7 @@
   "description": "A web application to keep track of daily habits",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "krushna",
@@ -22,5 +22,6 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {}
 }
