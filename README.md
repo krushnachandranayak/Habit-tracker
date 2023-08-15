@@ -83,13 +83,17 @@ Habit Tracker
 
 ## Screenshots
 ### Home Page
-![image]()
+![image](<img width="959" alt="home_page" src="https://github.com/krushnachandranayak/Habit-tracker/assets/131634927/e79fd9a2-c970-4404-9610-45eaf16ca662">)
+
 ### Sign-up Page
-![image]()
+![image](<img width="960" alt="sign_up" src="https://github.com/krushnachandranayak/Habit-tracker/assets/131634927/6fc5b71f-793c-4753-8309-c82695a923db">)
+
 ### Sign-in Page
-![image]()
-### Weekly View Page
-![image]()
+![image](<img width="960" alt="sign_in" src="https://github.com/krushnachandranayak/Habit-tracker/assets/131634927/d7568525-8b94-450b-899c-a8c69ed5fa34">)
+
+### Dily View Page
+![image](<img width="959" alt="daily_view" src="https://github.com/krushnachandranayak/Habit-tracker/assets/131634927/81437ce6-13e8-409f-ba71-8e4eaa2b1de4">)
+
 
 
 ## Contributing
